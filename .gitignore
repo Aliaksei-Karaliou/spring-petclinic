@@ -1,6 +1,6 @@
 target/*
 .settings/*
-.classpath
+.classpath/*
 .project
 .factorypath
 .attach_pid*
